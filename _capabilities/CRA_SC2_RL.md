@@ -16,7 +16,7 @@ submission_details:
         url: https://arxiv.org/abs/2106.05506
     software:
       - title: CAMEL Software
-        url: https://data.kitware.com/api/v1/item/6179b5a22fa25629b9bc8daf/download
+        url: https://data.kitware.com/api/v1/item/620283684acac99f427d40a9/download
     demos:
       - title: Demo Video
         url: https://cra.com/xai/
@@ -24,7 +24,7 @@ submission_details:
   # Optional information describing artifact. Leave blank if unused
   version:
   size:
-  license:
+  license: https://opensource.org/licenses/BSD-3-Clause
    
   authors:
     - Jeff Druce
